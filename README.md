@@ -1,6 +1,6 @@
 # blog-admin-laravel-5.2
 
- //Jika terdapat error Failed to clear cache
+ //if error Failed to clear cache
  php artisan cache:clear
 
  php artisan route:cache
@@ -9,7 +9,7 @@
 
  php artisan config:cache
 
- //jika bermasalah pada Controller
+ //if error Controller
  php artisan clear-compiled
  
  composer dump-autoload

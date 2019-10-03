@@ -26,6 +26,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
+## Guide
  //if error Failed to clear cache
  php artisan cache:clear
  php artisan route:cache
